@@ -1,4 +1,4 @@
 
 
 
-  addListItem(ok, noteInput.val())
+addListItem("ok", "mhmm")
