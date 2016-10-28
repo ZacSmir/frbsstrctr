@@ -1,11 +1,10 @@
 addListItem("ok", "cry")
 
 var maybe = {
-  nestedthing: maybeagain = {
-  nestedthingtwo: "WTFISTHIS"
-  
-  }
-
-
-  
+  nestedthing: nestedthingagain
 }
+
+var nestedthingagain = {
+  somethingelse
+}
+addListItem(maybe, "Face")
