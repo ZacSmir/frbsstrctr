@@ -5,6 +5,10 @@ var maybe = {
 }
 
 var nestedthingagain = {
-  somethingelse
+  somethingelse: someotherthing
 }
-addListItem(maybe, "Face")
+
+var someotherthing = {
+nestedstuff: "WHy"
+}
+addListItem(maybe, maybe)
