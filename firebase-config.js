@@ -1,8 +1,9 @@
 var firebaseConfig = {
-  apiKey: "NOT A REAL KEY",
-  authDomain: "not-a-real-db.firebaseapp.com",
-  databaseURL: "https://not-a-real-db.firebaseio.com"	
+  apiKey: " AIzaSyBTQz6kmAWd-J_10b4036LxO9Gus7eBhFU",
+  authDomain: "trump-clicker.firebaseapp.com",
+  databaseURL: "https://trump-clicker-bae64.firebaseio.com/"	
 };
+
 
 firebase.initializeApp(firebaseConfig);
 
